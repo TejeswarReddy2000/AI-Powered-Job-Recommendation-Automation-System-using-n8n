@@ -41,7 +41,7 @@ job-recommendation-automation/
 ### **1. Clone the Repository**
 
 ```bash
-git clone https://github.com/your-username/job-recommendation-automation.git
+git clone https://github.com/Tejeswarreddy2000/job-recommendation-automation.git
 cd job-recommendation-automation
 ```
 
